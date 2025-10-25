@@ -13,6 +13,7 @@
   - Could add more endpoints to diversify the methods for weather prediction from other sources.
 - Limitations (known constraints)
   - Can only see the next 5 days of forecast data
+  - You will get different result due to this being a live API.
 
 ---
 
