@@ -2,8 +2,10 @@
 
 This repository demonstrates an ethical, reproducible data-collection workflow used in the CSC 786 course.
 
+This is demonstration data since I won't be gathering and API data for my project. The purpose of this data could be something like trying to figure out forecast accuracy.
+
 ## Overview (udpate as necessary)
-This project collects sample open data from OpenWeather.  ,
+This project collects sample open data from OpenWeather,
 logs all collection parameters and metadata, and stores them in a version-controlled repository.
 
 ## Files
